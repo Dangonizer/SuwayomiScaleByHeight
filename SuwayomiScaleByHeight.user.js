@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Suwayomi scale by height
-// @include     http://192.168.178.23:4567/manga*
+// @include     http://192.168.178.23:4567/*
 // @grant       none
 // @version     1.0
 // @author      Dangonizer
